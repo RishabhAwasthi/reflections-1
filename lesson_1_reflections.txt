@@ -4,7 +4,7 @@
 
 *What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
  vs having versions automatically saved, like Google Docs does?
-
+asdfdsfadfsaad
 havinf more commits means clusterring the history so have less commits.One Commit for each logical change.
 
 *How can you use the commands git log and git diff to view the history of files?
