@@ -4,7 +4,7 @@
 
 *What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
  vs having versions automatically saved, like Google Docs does?
-
+asdfdsfadfsaad
 havinf more commits means clusterring the history so have less commits.One Commit for each logical change.
 
 *How can you use the commands git log and git diff to view the history of files?
@@ -14,4 +14,12 @@ By using git log i will get the history of all the commits i made. And by using 
 *How might using version control make you more confident to make changes that could break something?
 because i can go back to the changes again by using "git checkout"
 
+
+q |    exit git log!
+git log  |    List the commits and show which files have changed
+git log --stat  |    Show addition information about the commits
+git diff id1 id2  |    Compare two commits
+git clone  |    Create a local copy/clone from the repository
+git config --global color.ui auto |    get colored diff output
+git checkout | Shows a previous version of the file. This is not a checkout to edit like in SVN or TFS!
 
